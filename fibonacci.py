@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 
 num = int(input("Enter the number upto which you want to have the series:"))
 
@@ -11,7 +11,7 @@ def fibonacci():
         print(b, end = " ")
         a, b = b, a + b
 
-disp = fibonacci()
+fibonacci()
 print('\n')
 
 
