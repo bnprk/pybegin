@@ -57,5 +57,5 @@ while loop == 1:     # While the loop runs..
     elif choice == 5:
         loop = 0    # Loop terminates.
 
-print "\nThankyou! :)"
+print "\nThankyou! (and visit again) :)"
 
