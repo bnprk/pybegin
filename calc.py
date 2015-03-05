@@ -23,7 +23,7 @@ def sub(a,b):
     print a , "-", b, "=", a - b
     
 # Multiplying two given numbers
-ef mul(a,b):
+def mul(a,b):
     print a, "*", b, "=", a * b
 
 # Dividing two given numbers
