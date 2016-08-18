@@ -30,8 +30,6 @@ def convert_to_int(a,b,c,n):
             continue
         else:
             break
-
     check_fermat(a,b,c,n)
-
 
 convert_to_int(2,2,2,2)
